@@ -1,18 +1,18 @@
-\# 🕰️ VFD Vintage Clock
+# 🕰️ VFD Vintage Clock
 
 
 
-\[!\[Made with Arduino](https://img.shields.io/badge/Made%20with-Arduino-00979D?logo=arduino\&logoColor=white)](https://www.arduino.cc/)
+[!\[Made with Arduino](https://img.shields.io/badge/Made%20with-Arduino-00979D?logo=arduino\&logoColor=white)](https://www.arduino.cc/)
 
-\[!\[Designed in Altium](https://img.shields.io/badge/Designed%20in-Altium%20Designer-FFCC00?logo=altiumdesigner\&logoColor=black)](https://www.altium.com/)
+[!\[Designed in Altium](https://img.shields.io/badge/Designed%20in-Altium%20Designer-FFCC00?logo=altiumdesigner\&logoColor=black)](https://www.altium.com/)
 
-!\[ESP32-C6](https://img.shields.io/badge/ESP32--C6-Microcontroller-blue)
+![ESP32-C6](https://img.shields.io/badge/ESP32--C6-Microcontroller-blue)
 
-!\[WiFi Enabled](https://img.shields.io/badge/WiFi-Enabled-lightgrey?logo=wifi)
+![WiFi Enabled](https://img.shields.io/badge/WiFi-Enabled-lightgrey?logo=wifi)
 
-!\[NFC](https://img.shields.io/badge/NFC-Time%20Sync-green)
+![NFC](https://img.shields.io/badge/NFC-Time%20Sync-green)
 
-!\[License](https://img.shields.io/badge/License-All%20Rights%20Reserved-red)
+![License](https://img.shields.io/badge/License-All%20Rights%20Reserved-red)
 
 
 
