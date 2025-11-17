@@ -26,8 +26,8 @@ No buttons. No fuss. Just elegant, glowing time.
 - **NFC tag** for effortless time setup — just tap with your phone
 - **Button-free design** for a minimalist, futuristic look
 - Planned features:
-  - ⏰ Alarm mode
-  - ☀️ Solar-powered backup battery (UPS) for power outages
+  - Alarm mode
+  - Solar-powered backup battery (UPS) for power outages
 
 ---
 
@@ -75,13 +75,6 @@ This project was inspired and partially based on the work by [michalin70 on Hack
 - [ ] Integrate solar-powered UPS module
 - [ ] Finalize 3D-printed enclosure
 - [ ] Open-source firmware release
-
----
-
-## License
-
-You can add a license later — but for now, others can view your work as “All Rights Reserved” by default.  
-If you’d like people to remix, reuse, or build upon your design, consider adding an [MIT License](https://choosealicense.com/licenses/mit/) (a common open-source option).
 
 ---
 
