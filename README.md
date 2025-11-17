@@ -1,4 +1,4 @@
-# 🕰️ VFD Vintage Clock
+# VFD Vintage Clock
 
 [![Made with Arduino](https://img.shields.io/badge/Made%20with-Arduino-00979D?logo=arduino&logoColor=white)](https://www.arduino.cc/)
 
