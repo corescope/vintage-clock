@@ -2,7 +2,7 @@
 
 
 
-\[!\[Made with Arduino](https://img.shields.io/badge/Made%20with-Arduino-00979D?logo=arduino\&logoColor=white)](https://www.arduino.cc/)
+[![Made with Arduino](https://img.shields.io/badge/Made%20with-Arduino-00979D?logo=arduino\&logoColor=white)](https://www.arduino.cc/)
 
 \[!\[Designed in Altium](https://img.shields.io/badge/Designed%20in-Altium%20Designer-FFCC00?logo=altiumdesigner\&logoColor=black)](https://www.altium.com/)
 
